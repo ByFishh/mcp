@@ -1,0 +1,25 @@
+[14:30:11] [main/INFO]: Setting user: ByFish
+[14:30:11] [main/INFO]: (Session ID is token:0:ByFish)
+[14:30:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:30:12] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:30:12] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:30:13] [Sound Library Loader/INFO]: Sound engine started
+[14:30:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:30:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:30:22] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:30:22] [Server thread/INFO]: Generating keypair
+[14:30:22] [Server thread/INFO]: Preparing start region for level 0
+[14:30:23] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:30:23] [Server thread/INFO]: ByFish[local:E:2db5a705] logged in with entity id 341 at (74.82569919513512, 70.61096398216523, 263.9039681403738)
+[14:30:23] [Server thread/INFO]: ByFish joined the game
+[14:30:33] [Server thread/INFO]: Saving and pausing game...
+[14:30:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:30:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:30:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:30:36] [Client thread/INFO]: Stopping!
+[14:30:36] [Server thread/INFO]: Stopping server
+[14:30:36] [Server thread/INFO]: Saving players
+[14:30:36] [Server thread/INFO]: Saving worlds
+[14:30:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:30:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:30:36] [Server thread/INFO]: Saving chunks for level 'New World'/The End
